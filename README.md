@@ -1,2 +1,2 @@
 # AIgame
-FPS game on untiy
+FPS game on unity
